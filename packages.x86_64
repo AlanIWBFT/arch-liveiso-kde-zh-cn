@@ -144,3 +144,8 @@ firefox
 # NVIDIA driver
 nvidia
 
+# Chinese
+noto-fonts-cjk
+fcitx5-chinese-addons
+fcitx5-configtool
+firefox-i18n-zh-cn
