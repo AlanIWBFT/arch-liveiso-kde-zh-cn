@@ -126,13 +126,21 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+
 # Plasma desktop
 plasma-meta
 konsole
 kate
 dolphin
+kio-admin
 ark
 plasma-workspace
-nvidia
-firefox
 partitionmanager
+gparted
+
+# Browser
+firefox
+
+# NVIDIA driver
+nvidia
+
