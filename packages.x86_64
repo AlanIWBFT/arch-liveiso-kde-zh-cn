@@ -142,7 +142,7 @@ gparted
 firefox
 
 # NVIDIA driver
-nvidia
+nvidia-open
 
 # Chinese
 noto-fonts-cjk
