@@ -3,18 +3,18 @@
 ################################################################################
 
 # With:       reflector @/etc/xdg/reflector/reflector.conf
-# When:       2026-04-01 04:22:41 UTC
+# When:       2026-05-18 02:22:33 UTC
 # From:       https://archlinux.org/mirrors/status/json/
-# Retrieved:  2026-04-01 04:22:19 UTC
-# Last Check: 2026-04-01 04:16:04 UTC
+# Retrieved:  2026-05-18 02:22:03 UTC
+# Last Check: 2026-05-18 02:05:41 UTC
 
-Server = https://mirrors.wsyu.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.qlu.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.hust.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch
 Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.wsyu.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
 Server = https://mirrors.jlu.edu.cn/archlinux/$repo/os/$arch
-Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
-Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.jlu.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch
+Server = https://mirrors.qlu.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.hit.edu.cn/archlinux/$repo/os/$arch
 Server = https://mirrors.hit.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
+Server = http://mirror.nyist.edu.cn/archlinux/$repo/os/$arch
